@@ -148,7 +148,7 @@
 				DEVELOPMENT_TEAM = 8TW579USGH;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = HelloWorld/Info.plist;
-				INFOPLIST_KEY_CFBundleDisplayName = "Hello?";
+				INFOPLIST_KEY_CFBundleDisplayName = Hello;
 				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.entertainment";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
@@ -182,7 +182,7 @@
 				DEVELOPMENT_TEAM = 8TW579USGH;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = HelloWorld/Info.plist;
-				INFOPLIST_KEY_CFBundleDisplayName = "Hello?";
+				INFOPLIST_KEY_CFBundleDisplayName = Hello;
 				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.entertainment";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
